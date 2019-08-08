@@ -110,8 +110,8 @@ classic:
       team: Lucic
       manager: Mladen Lucic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Milisic fc
       manager: Petar Milisic
@@ -201,8 +201,8 @@ h2h:
       team: Lucic
       manager: Mladen Lucic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Miyamoto Musashi
       manager: Nebojsa Milosevic
