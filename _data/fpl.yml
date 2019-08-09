@@ -116,8 +116,8 @@ classic:
       team: Milisic fc
       manager: Petar Milisic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Deekay
       manager: Dee Kay
