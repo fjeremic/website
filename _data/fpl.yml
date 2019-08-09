@@ -130,6 +130,12 @@ classic:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: Boki
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
 
 h2h:
   name: Head-To-Head League
