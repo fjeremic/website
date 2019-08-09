@@ -98,14 +98,14 @@ classic:
       team: Miyamoto Musashi
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Fk Viktorious
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Lucic
       manager: Mladen Lucic
@@ -124,6 +124,12 @@ classic:
       amount_due: $100
       payment_status: Payment due
       payment_status-bg: red
+    -
+      team: CrnaGoraPobeditiMora
+      manager: Zoran Crnogorac
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
 
 h2h:
   name: Head-To-Head League
@@ -207,11 +213,11 @@ h2h:
       team: Miyamoto Musashi
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Fk Viktorious
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
