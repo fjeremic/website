@@ -134,7 +134,7 @@ classic:
       team: Boki
       manager: Bojan Samardzija
       amount_due: $100
-      payment_status: Payment due
+      payment_status: Paid
       payment_status-bg: success
 
 h2h:
@@ -207,7 +207,7 @@ h2h:
       team: Deekay
       manager: Dee Kay
       amount_due: $100
-      payment_status: Payment due
+      payment_status: Paid
       payment_status-bg: success
     -
       team: Lucic
