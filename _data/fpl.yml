@@ -123,7 +123,7 @@ classic:
       manager: Dee Kay
       amount_due: $100
       payment_status: Payment due
-      payment_status-bg: red
+      payment_status-bg: success
     -
       team: CrnaGoraPobeditiMora
       manager: Zoran Crnogorac
@@ -135,7 +135,7 @@ classic:
       manager: Bojan Samardzija
       amount_due: $100
       payment_status: Payment due
-      payment_status-bg: red
+      payment_status-bg: success
 
 h2h:
   name: Head-To-Head League
@@ -208,7 +208,7 @@ h2h:
       manager: Dee Kay
       amount_due: $100
       payment_status: Payment due
-      payment_status-bg: red
+      payment_status-bg: success
     -
       team: Lucic
       manager: Mladen Lucic
