@@ -105,7 +105,7 @@ h2h:
       team: Gangster’s Allardyce
       manager: Marko Cholich
       amount_due: $100
-      payment_status: Paartially paid ($50)
+      payment_status: Partially paid ($50)
       payment_status-bg: red
     -
       team: FK Velebit
