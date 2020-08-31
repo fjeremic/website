@@ -10,6 +10,78 @@ classic:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: BronxRu's Crew
+      manager: Branko Rusic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Fk Vikdam
+      manager: Juka Alimanovic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Eze Mané
+      manager: Ivan Vojinovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Gangster’s Allardyce
+      manager: Marko Cholich
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FK Velebit
+      manager: Goran Lakic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Mige
+      manager: Dee Kay
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: K.Bobo Vieri
+      manager: Rade Cvijanovic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Red Devils
+      manager: Arandjel Djuric
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: kukulele
+      manager: Nebojsa Milosevic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Forever 4th
+      manager: Ivan J
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Ko Je Poceo Rat
+      manager: Mladen Lucic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: FK Panic
+      manager: Stefan Panic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
 
 h2h:
   name: Head-To-Head League
@@ -23,3 +95,51 @@ h2h:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: Fk Vikdam
+      manager: Juka Alimanovic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Gangster’s Allardyce
+      manager: Marko Cholich
+      amount_due: $100
+      payment_status: Paartially paid ($50)
+      payment_status-bg: red
+    -
+      team: FK Velebit
+      manager: Goran Lakic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Mige
+      manager: Dee Kay
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Red Devils
+      manager: Arandjel Djuric
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: kukulele
+      manager: Nebojsa Milosevic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
+      team: Forever 4th
+      manager: Ivan J
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Ko Je Poceo Rat
+      manager: Mladen Lucic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
