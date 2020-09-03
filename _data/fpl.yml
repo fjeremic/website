@@ -11,6 +11,18 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Pornićari stari
+      manager: Đorđe C
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Winnin-the-poo
+      manager: D Lukic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
+    -
       team: BronxRu's Crew
       manager: Branko Rusic
       amount_due: $100
@@ -62,8 +74,8 @@ classic:
       team: kukulele
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Forever 4th
       manager: Ivan J
@@ -80,8 +92,8 @@ classic:
       team: FK Panic
       manager: Stefan Panic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
 
 h2h:
   name: Head-To-Head League
@@ -95,6 +107,18 @@ h2h:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: Pornićari stari
+      manager: Đorđe C
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Winnin-the-poo
+      manager: D Lukic
+      amount_due: $100
+      payment_status: Payment due
+      payment_status-bg: red
     -
       team: Fk Vikdam
       manager: Juka Alimanovic
@@ -129,8 +153,8 @@ h2h:
       team: kukulele
       manager: Nebojsa Milosevic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Forever 4th
       manager: Ivan J
