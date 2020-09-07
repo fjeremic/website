@@ -11,6 +11,30 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Sons of Fantasy
+      manager: Boris Stojkovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Fanatik 1976
+      manager: Adrian Polgar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: <Unknown>
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: BMA
+      manager: Danijel Man U
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: Pornićari stari
       manager: Đorđe C
       amount_due: $100
@@ -86,8 +110,8 @@ classic:
       team: Ko Je Poceo Rat
       manager: Mladen Lucic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: FK Panic
       manager: Stefan Panic
@@ -104,6 +128,12 @@ h2h:
     -
       team: JFC
       manager: Filip Jeremic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: BMA
+      manager: Danijel Man U
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -129,8 +159,8 @@ h2h:
       team: Gangster’s Allardyce
       manager: Marko Cholich
       amount_due: $100
-      payment_status: Partially paid ($50)
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: FK Velebit
       manager: Goran Lakic
@@ -165,5 +195,5 @@ h2h:
       team: Ko Je Poceo Rat
       manager: Mladen Lucic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
