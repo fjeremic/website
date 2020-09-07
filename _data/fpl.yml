@@ -11,6 +11,12 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Zigilibigonglice
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: Sons of Fantasy
       manager: Boris Stojkovic
       amount_due: $100
@@ -19,12 +25,6 @@ classic:
     -
       team: Fanatik 1976
       manager: Adrian Polgar
-      amount_due: $100
-      payment_status: Paid
-      payment_status-bg: success
-    -
-      team: <Unknown>
-      manager: Bojan Samardzija
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
