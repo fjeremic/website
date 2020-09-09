@@ -11,6 +11,12 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: 
+      manager: Igor Miksa
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: Republika Srpska
       manager: Zoran Crnogorac
       amount_due: $100
