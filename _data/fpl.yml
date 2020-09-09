@@ -11,6 +11,24 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Republika Srpska
+      manager: Zoran Crnogorac
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: The Junior Achievers
+      manager: kasper kicinski
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Daddy's Boyz
+      manager: jakub kicinski
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: Zigilibigonglice
       manager: Bojan Samardzija
       amount_due: $100
