@@ -156,6 +156,12 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Eze Mané
+      manager: Ivan Vojinovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: BMA
       manager: Danijel Man U
       amount_due: $100
