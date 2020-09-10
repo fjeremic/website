@@ -11,8 +11,20 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
-      team: 
-      manager: Igor Miksa
+      team: MANCHESTER OF BANE
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Puhăceni
+      manager: Anton Chetrar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Show me the Manè
+      manager: Igor M.
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
@@ -68,8 +80,8 @@ classic:
       team: Winnin-the-poo
       manager: D Lukic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: BronxRu's Crew
       manager: Branko Rusic
@@ -156,6 +168,18 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: MANCHESTER OF BANE
+      manager: Branko Oluic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: FC Puhăceni
+      manager: Anton Chetrar
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: Eze Mané
       manager: Ivan Vojinovic
       amount_due: $100
@@ -177,8 +201,8 @@ h2h:
       team: Winnin-the-poo
       manager: D Lukic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Fk Vikdam
       manager: Juka Alimanovic
