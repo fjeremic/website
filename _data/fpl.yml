@@ -174,6 +174,12 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: MILISIC FC
+      manager: Petar Milisic
+      amount_due: $100
+      payment_status: Paayment Due
+      payment_status-bg: red
+    -
       team: Zigilibigonglice
       manager: Bojan Samardzija
       amount_due: $100
