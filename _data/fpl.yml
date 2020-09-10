@@ -168,6 +168,12 @@ h2h:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Zigilibigonglice
+      manager: Bojan Samardzija
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: MANCHESTER OF BANE
       manager: Branko Oluic
       amount_due: $100
