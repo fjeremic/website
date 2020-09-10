@@ -11,6 +11,12 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: MILISIC FC
+      manager: Petar Milisic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: MANCHESTER OF BANE
       manager: Branko Oluic
       amount_due: $100
@@ -92,8 +98,8 @@ classic:
       team: Fk Vikdam
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Eze Mané
       manager: Ivan Vojinovic
@@ -213,8 +219,8 @@ h2h:
       team: Fk Vikdam
       manager: Juka Alimanovic
       amount_due: $100
-      payment_status: Payment due
-      payment_status-bg: red
+      payment_status: Paid
+      payment_status-bg: success
     -
       team: Gangster’s Allardyce
       manager: Marko Cholich
