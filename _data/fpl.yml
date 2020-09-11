@@ -11,6 +11,18 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: FC HERCEGOVINA
+      manager: Goran Radovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
+      team: Sporting Abeergut
+      manager: Mirko Misic
+      amount_due: $100
+      payment_status: Payment Due
+      payment_status-bg: red
+    -
       team: MILISIC FC
       manager: Petar Milisic
       amount_due: $100
@@ -173,6 +185,12 @@ h2h:
       amount_due: $100
       payment_status: Paid
       payment_status-bg: success
+    -
+      team: Sporting Abeergut
+      manager: Mirko Misic
+      amount_due: $100
+      payment_status: Payment Due
+      payment_status-bg: red
     -
       team: MILISIC FC
       manager: Petar Milisic
