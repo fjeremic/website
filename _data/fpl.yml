@@ -11,6 +11,12 @@ classic:
       payment_status: Paid
       payment_status-bg: success
     -
+      team: Fc Becmen
+      manager: Uros Vidovic
+      amount_due: $100
+      payment_status: Paid
+      payment_status-bg: success
+    -
       team: FC HERCEGOVINA
       manager: Goran Radovic
       amount_due: $100
