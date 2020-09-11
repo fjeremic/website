@@ -195,7 +195,7 @@ h2h:
       team: MILISIC FC
       manager: Petar Milisic
       amount_due: $100
-      payment_status: Paayment Due
+      payment_status: Payment Due
       payment_status-bg: red
     -
       team: Zigilibigonglice
